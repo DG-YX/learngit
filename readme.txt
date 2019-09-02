@@ -5,6 +5,8 @@
  bosss ssssssssssssssssssdadad
  aaaaaaaaa111111111231212a
  create new branch dev..
+<<<<<<< HEAD
  goback master...
 
- jjkt!!!!!!!
+ jjkt??????!!!!!!!
+
